@@ -1,7 +1,9 @@
-This repository is a part of the training at Smart Methods, and it is to control a robot base. 
+This repository is a part of the training at Smart Methods, and it is to control a robot base with an item chat bot added to it. 
 
 
 Index.php: 
+I added a chat bot that would recommend random items that might be useful to the user that would use usb, bluetooth in a unique way and others.
+
 Has direction buttons and a start/stop button where it will update at the top of the page so the end-user can read it and it will update on the same page at the top and will be shown as direction, state, and the state if it is 0 it is off and if it is 1 it is on. 
 
 
